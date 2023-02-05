@@ -1,0 +1,43 @@
+
+form{
+    text-align: center;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+hr{
+    border-width: 2px;
+}
+label{
+    width: 180px;
+    display: inline-block;
+    padding: 5px;
+    background-color: gray;
+    border-radius: 40px;
+}
+input,select{
+    text-align: center;
+    color: white;
+    height: 25px;
+    width: 177px;
+    background-color: black;
+    border-radius: 40px;
+}
+h1{
+    font-family:'Montserrat Alternates', sans-serif;
+}
+body{
+    margin: 0;
+    background-image: linear-gradient(to right, #D9AFD9 0%, #97D9E1 100%);
+}
+p{
+    text-align: center;font-weight: bold;
+}
+textarea{
+    background-color: black;
+    color: white;
+}
+button{
+    background-color: black;
+    color: white;
+}
